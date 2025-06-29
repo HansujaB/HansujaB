@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hansuja Budhiraja</h1>
-<h3 align="center">I am</h3>
+<h3 align="center">I am currently a Undergrad at IGDTUW in CSE-AI (2024-28)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansujab&label=Profile%20views&color=0e75b6&style=flat" alt="hansujab" /> </p>
 
+- 🌱 I’m currently learning **WebDev & Deep Learning**
+
+- 📫 How to reach me **hansujaigdtuwcseai@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hansuja-budhiraja-976a382a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hansuja-budhiraja-976a382a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hansuja budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansuja budhiraja" height="30" width="40" /></a>
 <a href="https://kaggle.com/hansujab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hansujab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hansuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hansuja" height="30" width="40" /></a>
 </p>
