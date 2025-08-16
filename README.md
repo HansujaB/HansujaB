@@ -18,9 +18,7 @@ I am currently working on my web dev projects and researching on deep learning p
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HansujaB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ My favourite Lines
+### ✍️ My favourite Line
 <p>The desire for more positive experience is itself a negative experience and acceptance of one's negative experience is itself a positive experience.</p>
 ---
-[![](https://visitcount.itsvg.in/api?id=HansujaB&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=HansujaB&icon=0&color=0)](https://visitcount.itsvg.in)
