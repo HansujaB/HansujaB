@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hansuja Budhiraja</h1>
 <h3 align="center">I am currently an Undergrad at IGDTUW in CSE-AI (2024-28)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansujab&label=Profile%20views&color=0e75b6&style=flat" alt="hansujab" /> </p>
+
 # 💫 About Me:
 I am currently working on my web dev projects and researching on deep learning project<br>I am sharpening my webdev , DL and DSA skills<br>Always up to contribute and collaborate !
 
@@ -20,5 +22,3 @@ I am currently working on my web dev projects and researching on deep learning p
 
 ### ✍️ My favourite Line
 <p>The desire for more positive experience is itself a negative experience and acceptance of one's negative experience is itself a positive experience.</p>
----
-![](https://visitcount.itsvg.in/api?id=HansujaB&icon=0&color=0)](https://visitcount.itsvg.in)
