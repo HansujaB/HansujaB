@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hansuja Budhiraja</h1>
 <h3 align="center">I am currently an Undergrad at IGDTUW in CSE-AI (2024-28)</h3>
 
+<h3>Visit my <a href="https://hansuja-portfolio.vercel.app/" target=_blank>Portfolio</a></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansujab&label=Profile%20views&color=0e75b6&style=flat" alt="hansujab" /> </p>
 
 # 💫 About Me:
