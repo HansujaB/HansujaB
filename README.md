@@ -21,6 +21,3 @@ I am currently working on ML/DL and agentic AI projects!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HansujaB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ My favourite Line
-<p>The desire for more positive experience is itself a negative experience and acceptance of one's negative experience is itself a positive experience.</p>
